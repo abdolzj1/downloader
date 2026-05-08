@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `download` |
-| **URL** | https://sourceforge.net/projects/adarsh8300u/files/AOSP_Duchamp/Lunaris-AOSP/Lunaris-AOSP-duchamp-UNOFFICIAL-3.10-GMS-2026050613.zip/download |
-| **Date** | 2026-05-08 20:13:05 UTC |
+| **URL** | https://sourceforge.net/projects/adarsh8300u/files/latest/download?hem=0b044eaca7bc04c582b3820c4482d4bab4f27ddf1d283bfc8261edf16798fb25 |
+| **Date** | 2026-05-08 20:20:59 UTC |
 | **Status** | **FAILED** |
 
 ---
